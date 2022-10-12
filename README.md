@@ -3,9 +3,9 @@
 Tableau is a leading data visualization tool used for data analysis and business intelligence.
 
 Learnt Data Visualization and Data Analytics with Tableau by solving 3 Realistic Analytics Projects.
-1. Customer Analysis
-2. Data Science Salaries
-3. Sales Decline Analysis for Atliq Grands Hospitality. 
+##1. Customer Analysis
+##2. Data Science Salaries
+##3. Sales Decline Analysis for Atliq Grands Hospitality. 
 
 
 This is a Tableau project for data analytics where I have created multiple sheets and dashboard to shed insights on customer analysis.

@@ -1,4 +1,4 @@
-# tableau-visualization
+# Tableau-visualization samples
 
 Tableau is a leading data visualization tool used for data analysis and business intelligence.
 

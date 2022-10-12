@@ -38,7 +38,7 @@ Scatter plot is used to investigate if there is any relation between quantity pu
 
 
 
-Data Science Salaries
+## Data Science Salaries
 
 Data science is the emerging new field in technology. Analysis is done bases upon salaries across the globe. Since the covid lot of companies have employed remote or work from policy, therefore it was important to see if the data science jobs are effected from it . Analysis is also done keeping the type of job and experience in calculation.
 
@@ -46,6 +46,7 @@ Data science is the emerging new field in technology. Analysis is done bases upo
 The company size is divided into three categories “Small, large and medium” along with average salary. In order to normalize the data, all the currency is converted into USD.
 2.	Does the employment type and company size influence salary?
 Bar graph is drawn to showcase the relation and influence between these categories.
+
 3.	How many companies allow for remote working?
        Analysis is shown in tabular form along with type of employment.
        
@@ -56,53 +57,46 @@ Bar graph is drawn to showcase the relation and influence between these categori
   ![image](https://user-images.githubusercontent.com/76634362/195247757-4b050c2c-dca9-4871-bc56-50f0e2a800cb.png)
   
 
- 
-
 3.Sales Decline Analysis for Atliq Grands Hospitality
 
 Atliq Grands Hospitality is facing decline in its revenue, therefore an analysis to find insightful information to help remedy the situation.
-Current Revenue:
+###### Current Revenue:
 ![image](https://user-images.githubusercontent.com/76634362/195247797-24ef3cae-7305-4804-b986-4448611f3ed1.png)
 
  
-Total booking through three months:
+###### Total booking through three months:
 ![image](https://user-images.githubusercontent.com/76634362/195247822-2169076e-0bd4-41d6-83f5-fa1fbcb6402d.png)
 
  
-Total Capacity:
+###### Total Capacity:
 ![image](https://user-images.githubusercontent.com/76634362/195247864-2d9cab2a-5790-44a7-b4f7-f76d0ce5dcfb.png)
  
  
-The average rating by customers
+###### The average rating by customers
 ![image](https://user-images.githubusercontent.com/76634362/195247887-99695c59-a718-4fab-aa87-f01de2b1da53.png)
 
  
-Occupancy % as per different rooms categories:
+###### Occupancy % as per different rooms categories:
 ![image](https://user-images.githubusercontent.com/76634362/195247913-9ed01f41-789c-41fd-9155-3558a153c7f0.png)
 
 
-Room category and cancellations:
+###### Room category and cancellations:
 ![image](https://user-images.githubusercontent.com/76634362/195247945-02b2f2ba-7890-4a23-9c13-f90cffb91986.png)
 
- 
-
-Ratio of Successful to Cancelled Bookings:
+###### Ratio of Successful to Cancelled Bookings:
 ![image](https://user-images.githubusercontent.com/76634362/195247978-780f5f75-95cf-43b4-a1b1-0b77c0836237.png)
-
  
-Weekend vs Weekday Revenue:
+###### Weekend vs Weekday Revenue:
 ![image](https://user-images.githubusercontent.com/76634362/195248004-9a51c52e-15b6-4eb8-aac4-3dc4238bd813.png)
 
-
-Occupancy vs Month vs Avg. Rating vs Room Category
+###### Occupancy vs Month vs Avg. Rating vs Room Category
 ![image](https://user-images.githubusercontent.com/76634362/195248036-3b57a084-9924-4127-8872-e9623547aa1b.png)
 
- 
-Booking platform
+###### Booking platform
 ![image](https://user-images.githubusercontent.com/76634362/195248056-ddb09117-9c1c-4ec7-9aea-b8696adde5f0.png)
 
 
-Some major insights 
+## Some major insights 
 1)	Atliq Exotica performs better than all 7 types of properties with the average rating of 3.62
 2)	Elite (RT2) has highest booking as well as cancellations.
 3)	The maximum occupancy is in Delhi followed by Hyderabad, Mumbai and Bangalore.

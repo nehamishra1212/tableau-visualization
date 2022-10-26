@@ -32,7 +32,7 @@ Scatter plot is used to investigate if there is any relation between quantity pu
 
 ![image](https://user-images.githubusercontent.com/76634362/195247586-375e866b-b1ac-4746-878e-331e6afbe44a.png)
 
-![image](https://user-images.githubusercontent.com/76634362/195247618-48b1ce07-5446-4f8c-bde3-b94606165dab.png)
+<img width="734" alt="Screenshot 2022-10-25 181947" src="https://user-images.githubusercontent.com/76634362/197912430-b002d175-aea2-4756-84bc-0da36c2e9f27.png">
 
 ![image](https://user-images.githubusercontent.com/76634362/195247631-214e9c08-a2e3-42f6-af8a-117ef694eddb.png)
 
